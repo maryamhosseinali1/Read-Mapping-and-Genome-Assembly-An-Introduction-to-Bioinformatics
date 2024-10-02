@@ -12,7 +12,7 @@ This project is a comprehensive exploration of essential bioinformatics workflow
 6. [Results and Interpretation](#results-and-interpretation)
 7. [Tools and Dependencies](#tools-and-dependencies)
 8. [Repository Structure](#repository-structure)
-9. [Credits](#credits)
+
 
 ## **Project Objectives**
 The main goals of this project were to learn and apply fundamental bioinformatics techniques to analyze short-read sequencing data, perform quality control, assemble a draft genome, and map sequencing reads to a reference genome. Throughout this project, I worked with *E. coli* sequencing data, leveraging a variety of bioinformatics tools to gain practical experience.
@@ -156,5 +156,4 @@ introduction-to-bioinformatics/
 
 ---
 
-## **Credits**
-This project was developed as part of the "Introduction to Bioinformatics" course under the guidance of Dr. Hesam Montazeri, with support from TAs Sajedeh Bahonar and Mohammad Sadegh Vafaei.
+
